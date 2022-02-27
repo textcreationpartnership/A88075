@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of His Excellency the Earl of Leven, the general officers, and all the inferiour officers and soldiers of the Scotish army. Together with their petition to His Majesty, presented at Newcastle by the Lord General, the general officers, and three commissioners from each regiment. And His Majesties answer to the said petition. Published by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88075</idno>
+            <idno type="STC">Wing L1812</idno>
+            <idno type="STC">Thomason E343_4</idno>
+            <idno type="STC">ESTC R200941</idno>
+            <idno type="EEBO-CITATION">99861554</idno>
+            <idno type="PROQUEST">99861554</idno>
+            <idno type="VID">113691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113691)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E343[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of His Excellency the Earl of Leven, the general officers, and all the inferiour officers and soldiers of the Scotish army. Together with their petition to His Majesty, presented at Newcastle by the Lord General, the general officers, and three commissioners from each regiment. And His Majesties answer to the said petition. Published by authoritie.</title>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>July 6. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Peace --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113691:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 88 -->
+            <p>THE DECLARATION Of His EXCELLENCY The Earl of Leven, THE General Officers, and all the inferior Officers and Soldiers of the Scotiſh ARMY.</p>
+            <p>TOGETHER With their Petition to His Majeſty, Preſented at <hi>New caſtle</hi> By the Lord General, the general Officers, and three Commiſſioners from each Regiment.</p>
+            <p>AND His Majeſties ANSWER to the ſaid Petition.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Laurence Chapman,</hi> July 6. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:113691:2"/>
+            <!-- PDF PAGE 89 -->
+            <pb n="3" facs="tcp:113691:2"/>
+            <!-- PDF PAGE 89 -->
+            <head>To his Excellency, the Earl of <hi>Leven,</hi> The Petition of all the Officers and Soul<g ref="char:EOLhyphen"/>diers under your Excellencies command,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas the whole Officers and Souldiers of this Army under your Excellencies Command, out of their zeal to the Reformation of Religion, their tender care to preſerve and confirm the mutual Amity and Confidence of both Kingdoms, and their earnest deſires to vindicate their Honor from reproaches and asperſions lying upon them; Have thought it neceſſary to emit a De<g ref="char:EOLhyphen"/>claration of their Conſtancy and Integrity in the purſuance of the ends of the Covenant; and likewiſe to ſupplicate His Majesty, that he would be pleaſed to comply with the just deſires of His Parliaments, and take ſome speedy courſe to put an end to our laſt<g ref="char:EOLhyphen"/>ing Miſeries by ſetling of Truth and Peace.</p>
+            <p>
+               <hi>May it therefore pleaſe your Excellency to re<g ref="char:EOLhyphen"/>preſent our Deſires in this behalf to the Ho<g ref="char:EOLhyphen"/>norable Committee; and that we humbly conceive, the uprightneſſe of our Intentions herein (having nothing before our eyes, but the good of Religion, his Majeſties happines, &amp; the Peace of theſe Kingdoms) will procure a favorable acceptance of our Endeavors.</hi>
+            </p>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:113691:3"/>
+            <!-- PDF PAGE 90 -->
+            <head>A DECLARATION OF The Lord General, The general Officers and Soldiers OF THE Scotiſh Army at <hi>Newcaſtle,</hi> 
+               <date>Iune 29. 1646.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He many calamities and heavy preſ<g ref="char:EOLhyphen"/>ſures, the ſad affliction lying upon theſe Kingdoms this time paſt, and the great effuſion of Chriſtian blood occaſioned by the continuance of this unnatural War, having ſo deep<g ref="char:EOLhyphen"/>ly
+<pb n="5" facs="tcp:113691:3"/>
+               <!-- PDF PAGE 90 -->wounded us, And being earneſtly deſirous to give ſome evident teſtimony of our Piety to God, Loyalty to our Soveraign, and Love to theſe King<g ref="char:EOLhyphen"/>doms; that the conſtancy of our affection to this Cauſe, our zeal to the Reformation of Religion, and His Majeſties Perſon and Authority in defence thereof; And our firm Reſolutions to purſue the ends expreſs'd in our Solemn League and Cove<g ref="char:EOLhyphen"/>nant, may appear to the World: We have thought it neceſſary in this juncture of time, when all means are eſſayed by the Enemies of Truth and Peace to diſparage our proceedings, by rendring ſuſpected our beſt actions and endeavors, to the begetting of miſunderſtanding, and weakning the Union between the two Kingdoms, to Declare and make known, That as we have entred into a Solemn League and Covenant, with our hands lifted up to the moſt High God, with real Intentions to promote the ends thereof, So do we reſolve, God-willing, con<g ref="char:EOLhyphen"/>ſtantly to adhere to the whole Heads and Articles of the ſame, And for no earthly tentation, for no fear or hope, to fall away and violate our Sacred Oath.</p>
+            <p>We do likewiſe profeſſe, That nothing hath been with greater care and faithfulneſſe endeavored by us; then to preſerve the happy Union and Bro<g ref="char:EOLhyphen"/>therly correſpondence between the Kingdoms, as a principal mean of happineſſe to both; And ſhall continue in the ſame care to avoid every thing that may tend to the infringement thereof, with a ſpecial
+<pb n="6" facs="tcp:113691:4"/>
+               <!-- PDF PAGE 91 -->regard and tenderneſſe to the Intereſts of both King<g ref="char:EOLhyphen"/>doms: For the ſtrengthning of which Union, and removing every thing that might obſtruct the ſame, As hitherto we have had no compliance, nor kept correſpondence with known Enemies and Malignants, So will wee never hereafter give countenance or encouragement to any per<g ref="char:EOLhyphen"/>ſon diſaffected to the Parliaments of either King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>And that the Integrity of our Intentions, and the uprightneſſe of our Deſires may be the more mani<g ref="char:EOLhyphen"/>feſt, We do Declare, That we abhor all publike and private ways, contrary to the Covenant, and deſtructive to the happineſſe of both Kingdoms, We diſclaim all dealing with thoſe that are Inſtru<g ref="char:EOLhyphen"/>ments of theſe unhappy Troubles and Impediments of Peace, And with all ſuch perſons who will not uſe all means and endeavors, and contribute their beſt Counſels and Advice for haſting an end to our laſting Miſeries, and procuring a ſure and well-grounded Peace; and in particular we do abomi<g ref="char:EOLhyphen"/>nate and deteſt that execrable Rebellion of <hi>James Grahame</hi> utterly, abjuring all maner of conjunction with him and his Confederates, And with all other known Enemies, or declared Traitors to either Kingdom, notwithſtanding of any inſinuations to to the contrary expreſs'd in ſome Letters, as is ſaid, by His Majeſty to the Earl of <hi>Ormond</hi> in <hi>Ireland;</hi> for we have none but ſingle Intentions, and unfained Deſires of Peace, renouncing all communion with whatſoever deſigns and practiſes contrived in the
+<pb n="7" facs="tcp:113691:4"/>
+               <!-- PDF PAGE 91 -->dark to the prejudice of Religion, and Tranquility of theſe Kingdoms, the only principles by which we move.</p>
+            <p>And as we came into this Kingdom at the earneſt deſires of our Brethren, to aſſiſt them in the time of their great Extremity, in the purſuance of the National Covenant, not for any mercinary ends, nor to enrich our ſelves, as is falſely and calumni<g ref="char:EOLhyphen"/>ouſly charged upon us by thoſe that wiſh not well unto us nor our cauſe; So ſhall we be moſt willing to depart and return home in Peace, with the ſame cheerfulneſſe and affection that we had when we came in: Nor ſhall the matter of money, or want of juſt Recompence for the Service performed, and hardſhip ſuſtained, be to us an Argument of our ſtay; But leaving the conſideration of theſe things to the wiſdom and diſcretion of both Parliaments, we ſhall ſo far deny our ſelves, as not to ſuffer any private reſpects of our own, to retard the advance<g ref="char:EOLhyphen"/>ment of this cauſe, or prejudge the publick work of both Kingdoms.</p>
+            <p>We cannot conceal, but muſt acknowledge how ſenſible we are, and have alwayes been of the many Complaints preſented to the Parliament of <hi>England</hi> againſt this Army, and the heavie Calumnies and Aſperſions lying upon us for having committed In<g ref="char:EOLhyphen"/>ſolencies, and oppreſſed the people by taking free quarter, offering our ſelves moſt willing and ready, that whoſoever amongſt us have by their Miſdemea<g ref="char:EOLhyphen"/>nors, Miſcarriages, or Inordinate way of walking, ſcandalized the Cauſe for which we have taken our
+<pb n="8" facs="tcp:113691:5"/>
+               <!-- PDF PAGE 92 -->Lives in our hand, or endeavored to beget a Miſ<g ref="char:EOLhyphen"/>underſtanding, or foment Jealouſies between the Kingdoms, we ſhall ſtrive to diſcover all ſuch, and labour to bring them to publick Tryal and condign puniſhment: Not doubting, but as we are zealous to vindicate our Honor and Reputation from all re<g ref="char:EOLhyphen"/>proaches, ſo the Parliament will likewiſe be pleaſed to have ſuch favorable conſtruction of our proceed<g ref="char:EOLhyphen"/>ings, as not willingly to harbor any Thoughts which may leſſen their reſpects to us, and which are not ſuitable to the conſtant Tenour of our cariage and profeſſion: And we ſhall likewiſe deſire, That the manifold neceſſities, and preſſing wants to which we were many times reduced, may not be forgotten; and that the wayes and means appointed for our ſupply, neither anſwered the expectation of the Ho<g ref="char:EOLhyphen"/>norable Houſes of Parliament, nor ſatisfied our ne<g ref="char:EOLhyphen"/>ceſſities, ſo that for want of Moneys we could not alwayes diſcharge our quarters; Yet do we moſt freely declare our willingneſſe to allow of whatſo<g ref="char:EOLhyphen"/>ever hath been taken up by us, and for that effect we deſire the Accompts of the Army to be adjuſted with the ſeveral and reſpective Counties, that what ever can be juſtly charged upon us, may be diſcoun<g ref="char:EOLhyphen"/>ted off any Sums that ſhall be reſting us in Arrear: And if we knew any thing elſe that could ſerve to remove all Jealouſies and Miſunderſtandings, and beget a more full confidence of our uprightneſſe, wee ſhould with the ſame readineſſe apply our ſelves to all the wayes that might conduce there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>
+               <pb n="9" facs="tcp:113691:5"/>
+               <!-- PDF PAGE 92 -->
+But, becauſe His Majeſties ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>den and unexpected comming into this Army doth miniſter new occaſi<g ref="char:EOLhyphen"/>on to us, to give ſome demonſtration of our conſtan<g ref="char:EOLhyphen"/>cy, though wee hope His Majeſtie came with reall In<g ref="char:EOLhyphen"/>tentions, to ſatisfie the juſt deſires of His Parlia<g ref="char:EOLhyphen"/>ments, and compoſe all thoſe differences. Yet, leſt it ſhould bring in queſtion the Clearneſſe and Inte<g ref="char:EOLhyphen"/>gritie of our wayes, whereof our Conſciences doe beare us witneſſe, and our actions ſhall be publike and reall teſtimo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies; Wee doe proteſt<g ref="char:punc">▪</g> that His preſence with us, hath not begotten any alteration in our minds in the leaſt meaſure to eſtrange us from the wayes of our Covenant, or alienate our Reſolutions from going on Zealouſly, Conſtantly, and Unani<g ref="char:EOLhyphen"/>mouſly, to ſet forward the ends therein expreſt, en<g ref="char:EOLhyphen"/>deavouring (ſo farre as lyeth in our power) to im<g ref="char:EOLhyphen"/>prove that providence of His comming to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<g ref="char:punc">▪</g> to the publike good and happineſſe of both Kingdomes. And as it is our earneſt deſire, that His Majeſty would no more ſuffer Himſelfe to be involved in the Coun<g ref="char:EOLhyphen"/>ſels, whereof He h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had ſo ſad experience, to the en<g ref="char:EOLhyphen"/>dangering of His Perſon, Poſteritie, and Kingdomes; So doe wee exceedingly wiſh, that He would comply with the Counſels of His Parliaments, to the ſatis<g ref="char:EOLhyphen"/>faction of His good people: And we ſhall be carefull that nothing proceed from us, which may give occa<g ref="char:EOLhyphen"/>ſion to His Majeſtie to entertaine any ſecret confi<g ref="char:EOLhyphen"/>dence, that this Army will give aſſiſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce for advance<g ref="char:EOLhyphen"/>ing other ends then ſuch as are agree<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble to our Cove<g ref="char:EOLhyphen"/>nant, conducing to the good of Religion, the happi<g ref="char:EOLhyphen"/>neſſe of the King and His Poſteritie, and ſa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tie of the King<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omes.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by his Excellency the Earle of</hi> Leven <hi>the generall Offi<g ref="char:EOLhyphen"/>cers, &amp; three Commiſſioners from every Regiment of the Army.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="10" facs="tcp:113691:6"/>
+            <!-- PDF PAGE 93 -->
+            <head>The Petition of the Earl of LEVEN, Lord General, the generall Officers, Colonels &amp; Captaines, &amp;c. of the Scottiſh Army, preſented to His MAJESTIE at <hi>NEW-CASTLE.</hi>
+            </head>
+            <p>WEE, your Majeſties loyall Subjects and faith<g ref="char:EOLhyphen"/>full Servants, the Lord Generall, the generall Officers, the Colonels and Captaines in the Scottiſh Army, now in the Kingdom of <hi>England,</hi> from the deep ſenſe of the bleeding condition of theſe Kingdomes ſo heavy preſt with ſad afflictions, through the unhap<g ref="char:EOLhyphen"/>py differences betweene your Majeſtie and your Sub<g ref="char:EOLhyphen"/>jects, from the true affection and zeale to the Refor<g ref="char:EOLhyphen"/>mation of Religion, and your Majeſties Perſon and Authoritie in defence thereof; And in the purſuance of that Sacred Oath which wee have taken with our hands lifted up to the moſt high God, Doe make our humble addreſſe, and tender this earneſt Petition to your Majeſtie in our name, And in the name of all the inferiour Commanders and Souldiers under our charge, That your Majeſtie, in your Wiſedome and Goodneſſe, may be pleaſed to take a ſpeedy courſe for ſetling of Religion and Church Government in this Kingdome, according to the Word of God, and example of the beſt Reformed Churches, and bringing the Churches of the three Kingdomes to the neereſt conjunction and Uniformitie; And for eſtabliſhing the Priviledges and Liberties of your Kingdomes, ac<g ref="char:EOLhyphen"/>cording
+<pb n="11" facs="tcp:113691:6"/>
+               <!-- PDF PAGE 93 -->to the deſires of Your good People. Wee may not conceale our unfeigned griefe, for that Your Majeſty hath not yet been pleaſed to authorize and ſigne the Covenant, which wee are confident would bring honour to God, happineſſe to your Selfe and Poſterity, and indeare Your Majeſty (above meaſure) to all Your faithfull and loyall Subjects: In the juſt defence whereof, as many of them have already loſt their lives, ſo are wee ready to ſacrifice ours.</p>
+            <p>We muſt alſo pray your Majeſty to compaſſionate the diſtreſſed condition of your Kingdomes groan<g ref="char:EOLhyphen"/>ing under the heavy preſſures of manifold calamities, occaſioned by the continuance of this unnaturall Warre; and to comply with the Councels of your Parliaments; that all differences being happily com<g ref="char:EOLhyphen"/>poſed, and the Armies in both Kingdoms disbanded, we may returne home in peace, or be diſpoſed of o<g ref="char:EOLhyphen"/>therwiſe by your Majeſty, with the advice of your Parliaments, which may be moſt for Your Majeſties honour and ſervice, and the proſperity of theſe King<g ref="char:EOLhyphen"/>domes.</p>
+            <closer>
+               <signed>Signed by his Excellency the Earle of <hi>Leven,</hi> the generall Officers, and three Commiſ<g ref="char:EOLhyphen"/>ſioners from every Regiment of the Army.</signed>
+            </closer>
+         </div>
+         <div type="reply_to_petition">
+            <pb n="12" facs="tcp:113691:7"/>
+            <!-- PDF PAGE 94 -->
+            <head>By His Majeſties Command.</head>
+            <p>I Am in his Name to returne this Anſwer to the Pe<g ref="char:EOLhyphen"/>tition preſented to him by the Lord Generall, the Generall Officers, the Colonels, and other Officers and Souldiers of the Scottiſh Army, That his Ma<g ref="char:EOLhyphen"/>jeſty came into the Scottiſh Army, with full intent of Setling an Happy Peace in theſe His Kingdomes, and to ſatisfie the Juſt Deſires of His good Subjects; and likewiſe to comply with His Parliaments in all things which ſhall be for the good of Religion, and the Happineſſe of His Subjects, which hee will al<g ref="char:EOLhyphen"/>wayes prefer to all worldly intereſts: And whenſo<g ref="char:EOLhyphen"/>ever it ſhall pleaſe God ſo to bleſſe His Majeſties en<g ref="char:EOLhyphen"/>deavours, as to ſettle an Happy Peace in theſe His Dominions, His Majeſty will bee very ſolicitous to finde out ſome meanes of Honourable Employment for ſo many Gallant Men as are employed in this Army.</p>
+            <closer>
+               <dateline>At Newcaſtle <date>27. of June, 1646.</date>
+               </dateline>
+               <signed>Lanrick.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
